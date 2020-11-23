@@ -195,10 +195,8 @@ hr.light-100{
     width: 100%;
     height: 250px;
   }
-  .jumbotron {
-    padding: .3rem;
-    border-radius: 0;
-    font-size: 150%;
+  .jumbo_lead {
+    font-size: 30%;
   }
 }
 
