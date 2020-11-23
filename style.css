@@ -160,13 +160,8 @@ hr.light-100{
     width: 100%;
     height: 350px;
   }
-  .jumbotron {
-    padding: .5rem;
-    border-radius: 0;
-    font-size: 250%;
-  }
   .jumbo_lead {
-    font-size: 40%;
+    font-size: 80%;
   }
 }
 @media (max-width: 576px) {
@@ -199,7 +194,7 @@ hr.light-100{
     height: 250px;
   }
   .jumbo_lead {
-    font-size: 30%;
+    font-size: 70%;
   }
 }
 
